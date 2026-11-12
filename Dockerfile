@@ -9,3 +9,6 @@ WORKDIR /usr/app/
 ENTRYPOINT ["java", "-jar", "products_api.jar"]
 
 EXPOSE 8080
+
+Welcome to devops
+
