@@ -12,3 +12,4 @@ EXPOSE 8080
 
 Welcome to devops
 Welcome to java
+Welcome to python
